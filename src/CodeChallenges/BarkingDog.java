@@ -1,4 +1,4 @@
-package Methods;
+package CodeChallenges;
 
 public class BarkingDog {
     public static boolean shouldWakeUp(boolean barking, int hourOfDay){

@@ -1,4 +1,4 @@
-package Methods;
+package CodeChallenges;
 
 public class BarkingDogMain {
     public static void main(String[] args) {

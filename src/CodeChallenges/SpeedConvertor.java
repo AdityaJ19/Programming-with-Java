@@ -1,4 +1,4 @@
-package Methods;
+package CodeChallenges;
 
 public class SpeedConvertor {
     public static long toMilesPerHour(double kilometersPerHour) {

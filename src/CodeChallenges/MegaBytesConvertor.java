@@ -1,4 +1,4 @@
-package Methods;
+package CodeChallenges;
 
 public class MegaBytesConvertor {
     public static void printMegaBytesAndKiloBytes(int kiloBytes){
