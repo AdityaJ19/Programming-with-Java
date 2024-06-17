@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69fd78fe-375e-4309-85fd-972bcc540b18" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/CodeChallenges/PositiveNegativeZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/BarkingDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/BarkingDogMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Challenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/MegaBytesConvertor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/MegaBytesConvertorMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Return.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/SpeedConvertor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/SpeedConvertorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChallenges/BonusSecMinChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChallenges/CatPlaying.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChallenges/SecondsAndMinutesChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeChallenges/TeenChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/OverloadingChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentGradeCalculator/GradeManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,14 +43,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BarkingDogMain.executor": "Run",
+    "Application.BonusSecMinChallenge.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.CatPlaying.executor": "Run",
     "Application.Challenge.executor": "Run",
     "Application.FirstClass.executor": "Run",
+    "Application.GradeManager.executor": "Run",
     "Application.MegaBytesConvertorMain.executor": "Run",
     "Application.Method.executor": "Run",
     "Application.Methods.Challenge.executor": "Run",
+    "Application.Overloading.executor": "Debug",
+    "Application.OverloadingChallenge.executor": "Run",
     "Application.PrecedenceOrder.executor": "Run",
     "Application.Return.executor": "Run",
+    "Application.SecondsAndMinutesChallenge.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
     "Application.SpeedConvertorMain.executor": "Run",
+    "Application.TeenChecker.executor": "Run",
     "Application.ifElseStatement.executor": "Run",
     "Application.ifElseifElseStatement.executor": "Run",
     "Application.ifThenStatement.executor": "Run",
@@ -64,13 +70,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BarkingDogMain">
-    <configuration name="BarkingDogMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.BarkingDogMain" />
+  <component name="RunManager" selected="Application.CatPlaying">
+    <configuration name="BonusSecMinChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeChallenges.BonusSecMinChallenge" />
       <module name="ProgrammingWithJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Methods.*" />
+          <option name="PATTERN" value="CodeChallenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Challenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.Challenge" />
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.BubbleSort" />
       <module name="ProgrammingWithJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Methods.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MegaBytesConvertorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.MegaBytesConvertorMain" />
+    <configuration name="CatPlaying" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodeChallenges.CatPlaying" />
       <module name="ProgrammingWithJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Methods.*" />
+          <option name="PATTERN" value="CodeChallenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Return" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.Return" />
+    <configuration name="GradeManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentGradeCalculator.GradeManager" />
       <module name="ProgrammingWithJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Methods.*" />
+          <option name="PATTERN" value="StudentGradeCalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpeedConvertorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.SpeedConvertorMain" />
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.SelectionSort" />
       <module name="ProgrammingWithJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Methods.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,13 +138,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BarkingDogMain" />
-        <item itemvalue="Application.MegaBytesConvertorMain" />
-        <item itemvalue="Application.SpeedConvertorMain" />
-        <item itemvalue="Application.Methods.Challenge" />
-        <item itemvalue="Application.Return" />
+        <item itemvalue="Application.CatPlaying" />
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.GradeManager" />
+        <item itemvalue="Application.BonusSecMinChallenge" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -157,7 +170,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716888419142</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <option name="closed" value="true" />
+      <created>1717006318853</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717006318853</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <option name="closed" value="true" />
+      <created>1717006369263</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717006369263</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
